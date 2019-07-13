@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ALC 4 Phase I</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome_text">Welcome to ALC 4.0</string>
+    <string name="about_button">ABOUT ALC</string>
+    <string name="profile_button">MY PROFILE</string>
+    <string name="title_activity_profile">My Profile</string>
+    <string name="learner_pic">Learner Pic</string>
+    <string name="learner_name">Betty Kebenei</string>
+    <string name="track">Track: &#160; Android</string>
+    <string name="country">Country: &#160; Kenya</string>
+    <string name="email">Email: &#160; kebeneibetty13@gmail.com</string>
+    <string name="phone_number">Phone Number: &#160; +254708201772</string>
+    <string name="slack">Slack Username: &#160; @betty</string>
+    <string name="title_activity_alc">About ALC</string>
+</resources>
