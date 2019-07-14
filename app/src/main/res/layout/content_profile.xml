@@ -11,7 +11,7 @@
 
     <ImageView
             android:layout_width="0dp"
-            android:layout_height="200dp" app:srcCompat="@drawable/pic"
+            android:layout_height="200dp" app:srcCompat="@drawable/ppic"
             android:id="@+id/profile_image" app:layout_constraintStart_toStartOf="parent"
             android:layout_marginStart="32dp" app:layout_constraintEnd_toEndOf="parent"
             android:layout_marginEnd="32dp" app:layout_constraintHorizontal_bias="0.0"
